@@ -1,0 +1,36 @@
+body {
+	background-color: #fcd04b;
+	color: white;
+	font-family: Lato;
+	font-weight: 300px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.btn {
+	outline: none;
+	cursor: pointer;
+	text-transform: uppercase;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	font-size: 26px;
+	background-color: #fcad26;
+	border: none;
+	padding: 25px 80px;
+	border-radius: 20px;
+	color: white;
+	box-shadow: 0 6px #efa424;
+}
+
+.btn:hover {
+	box-shadow: 0 4px #efa424;
+	top: 2px;
+}
+
+.btn:active {
+	box-shadow: none;
+	top: 6px;
+}
