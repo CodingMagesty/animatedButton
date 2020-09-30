@@ -1,2 +1,2 @@
-# animatedButton
-Playing aroung with CSS animations
+# animated-Button
+Playing around with CSS animations
